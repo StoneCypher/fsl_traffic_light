@@ -1,6 +1,6 @@
 
 machine_name     : "Traffic light";
-machine_author   : "John Haugeland / @stoncypher";
+machine_author   : "John Haugeland / stonecypher@gmail.com / @stonecypher";
 machine_comment  : "4-state traffic light; translation model";
 machine_license  : MIT;
 machine_language : en;
